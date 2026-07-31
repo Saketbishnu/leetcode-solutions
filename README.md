@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
