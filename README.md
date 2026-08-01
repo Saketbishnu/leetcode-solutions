@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saketbishnu/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
