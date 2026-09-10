@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0039-combination-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
