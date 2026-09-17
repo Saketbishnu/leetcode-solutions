@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
