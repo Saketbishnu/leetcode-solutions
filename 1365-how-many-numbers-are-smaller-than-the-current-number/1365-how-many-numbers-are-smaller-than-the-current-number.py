@@ -3,10 +3,9 @@ class Solution:
         ans=[]
         n=len(nums)
         for i in range(n):
-            current = nums[i]
             count =0
             for j in range(n):
-                if nums[j] < current:
+                if nums[j] < nums[i]:
                     count +=1
             ans.append(count)
         return ans
