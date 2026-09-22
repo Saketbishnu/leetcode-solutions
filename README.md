@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
