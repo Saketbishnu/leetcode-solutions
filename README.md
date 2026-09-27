@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Database
