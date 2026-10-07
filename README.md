@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
