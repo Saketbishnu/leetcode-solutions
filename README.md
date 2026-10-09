@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
 | ------- |
