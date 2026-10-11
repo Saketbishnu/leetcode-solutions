@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0704-binary-search) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
