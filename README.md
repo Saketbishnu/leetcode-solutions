@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
