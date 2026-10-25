@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0135-candy) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
