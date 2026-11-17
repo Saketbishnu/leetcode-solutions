@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saketbishnu/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0912-sort-an-array) |
