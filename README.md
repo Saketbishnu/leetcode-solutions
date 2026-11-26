@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0704-binary-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Saketbishnu/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Algorithm X
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Saketbishnu/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
